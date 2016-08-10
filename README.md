@@ -2,6 +2,6 @@
 > A kata for working with basic Docker features
 
 ## Guidance
-[Getting Started with Docker](https://docs.docker.com/engine/getstarted/)
+**docker.io** - [Learn by example](https://docs.docker.com/engine/tutorials/dockerizing/)
 
 [Begin](instructions.md)
