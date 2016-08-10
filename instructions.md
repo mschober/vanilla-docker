@@ -1,4 +1,5 @@
 # Kata 1
+> Timebox the activity to ~15minutes. If you don't get all the way through it call it a day and redo the kata tomorrow. Once you can complete all the excercise in ~5m you have mastered it and can return to refresh later down the road.
  
 ## Making a vanilla docker container
  - create a new network for saying hello
